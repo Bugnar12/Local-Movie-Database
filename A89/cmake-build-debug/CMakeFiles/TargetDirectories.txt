@@ -1,0 +1,5 @@
+C:/Users/Praslea/Desktop/A89/cmake-build-debug/CMakeFiles/a45_Bugnar12.dir
+C:/Users/Praslea/Desktop/A89/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Praslea/Desktop/A89/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Praslea/Desktop/A89/cmake-build-debug/CMakeFiles/a45_Bugnar12_autogen_timestamp_deps.dir
+C:/Users/Praslea/Desktop/A89/cmake-build-debug/CMakeFiles/a45_Bugnar12_autogen.dir
